@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente fazendo projetos para clientes [DNF OCUPACIONAL](https://dnfocupacional.com.br/)
 
-- 🌱 Atualmente estou aprendendo **React e Node.js**
+- 🌱 Estudando tecnologias como **React e Node.js**
 
 - 📫 Email **alisoaries@gmail.com**
 
