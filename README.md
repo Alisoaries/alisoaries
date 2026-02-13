@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou o Alisson</h1>
-<h3 align="center">Apaixonado por design e desenvolvimento Web</h3>
+<h3 align="center">Apaixonado por Design e Desenvolvimento Web</h3>
 
 - 🔭 Atualmente fazendo projetos para clientes [DNF OCUPACIONAL](https://dnfocupacional.com.br/)
 
