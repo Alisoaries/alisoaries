@@ -1,11 +1,10 @@
-<h1 align="center">Oi 👋, eu sou o Alisson</h1>
-<h3 align="center">Apaixonado por Design e Desenvolvimento Web</h3>
+# Olá, eu sou Alisson! 👋
 
-- 🔭 Atualmente fazendo projetos para clientes [DNF OCUPACIONAL](https://dnfocupacional.com.br/)
-
-- 🌱 Estudando tecnologias como **React e Node.js**
-
-- 📫 Email **alisoaries@gmail.com**
+## Sobre mim
+- 🌍 São Paulo, Brasil
+- 💻 Desenvolvedor Web
+- 📚 Estudando React
+- 🚀 Construindo projetos em público
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
