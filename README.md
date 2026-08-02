@@ -1,10 +1,10 @@
 # Olá, eu sou Alisson! 👋
 
 ## Sobre mim
-- 🌍 São Paulo, Brasil
-- 💻 Desenvolvedor Web
-- 📚 Estudando React
-- 🚀 Construindo projetos em público
+
+* 🌍 São Paulo, Brasil
+* 💻 Desenvolvedor Web
+* 🚀 Construindo projetos em público
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,42 +17,32 @@
     <tr>
       <td align="center">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block">
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://reactjs.org/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
         </a>
       </td>
       <td align="center">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.photoshop.com/en">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40">
         </a>
       </td>
       <td align="center">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.adobe.com/in/products/illustrator.html">
-          <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block">
+          <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40">
         </a>
       </td>
       <td align="center">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3.org/html/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
         </a>
       </td>
       <td align="center">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3schools.com/css/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
         </a>
       </td>
       <td align="center">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block">
-        </a>
-      </td>
-      <td align="center">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px; aspect-ratio: 40 / 40; background-color: var(--bgColor-muted); border-radius: 6px; display: block">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
         </a>
       </td>
     </tr>
